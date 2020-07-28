@@ -13,7 +13,15 @@ Part 1- Learning Basics:
             - Methods
         - Using NLTK Text module
             - Methods
-    2. Stemming and Stop Words
-    3. Lematization and POS tagging
-    4. NER, Chunking and Chinking
-    5. Word Cloud
+    2. Stop Words
+    3. POS Tagging
+    4. Lematization
+    5. Stemming
+        - Porter
+        - Lancaster
+        - Snowball / English
+    6. Chunking
+        - Steps
+    7. Chinking
+    8. Named Entity Recognition (NER)
+    9. Word Cloud
