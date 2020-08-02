@@ -3,7 +3,7 @@
 **Tools Used** : SpaCy, TextBlob and nltk
 
 ### Topics
-Part 1- Learning Basics:
+#### Part 1- Learning Basics:
 
     1. Tokenization (Pre-trained or Unsupervised)
         - Word Tokenize
@@ -25,3 +25,11 @@ Part 1- Learning Basics:
     7. Chinking
     8. Named Entity Recognition (NER)
     9. Word Cloud
+
+####    Part 2- Words can do wonders:
+    
+    1. Working with Wordnet
+    1. Term Frequency–Inverse Document Frequency (TFIDF)
+    3. countVectorizer
+    4. Bag of Words
+    5. Text to numbers
